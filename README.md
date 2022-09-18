@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch3ber&label=Profile%20views&color=0e75b6&style=flat" alt="ch3ber" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ch3ber_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ch3ber_dev?logo=twitter&style=for-the-badge" alt="ch3ber_dev" /></a> </p>
-
 - 🔭 I’m currently working on [yourrouter](https://github.com/ch3ber/yourrouter)
 
 - 🌱 I’m currently learning **Node.js and Express**
