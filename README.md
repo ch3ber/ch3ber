@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eber Alejo</h1>
-<h3 align="center">Frontend developer from Mexico</h3>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch3ber&label=Profile%20views&color=0e75b6&style=flat" alt="ch3ber" /> </p>
 
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch3ber&show_icons=true&locale=en&layout=compact&theme=radical" alt="ch3ber" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch3ber&show_icons=true&locale=en&theme=radical" alt="ch3ber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch3ber&theme=radical" alt="ch3ber" /></p>
